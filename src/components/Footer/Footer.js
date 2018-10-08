@@ -3,7 +3,7 @@ import "./Footer.css";
 
 const Footer = () => (
     <footer className="footer">
-        <div className="bottom">
+        <div className="bottom" >
             Clicky Game! <image alt="react" src="assets/images/react.svg" />
         </div>
     </footer>
