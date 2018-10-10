@@ -6,57 +6,57 @@
     },
     {
       "id": 2,
-      "image": "/assets/images/angelica.png",
+      "image": "/assets/Images/angelica.png",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "/assets/images/angpickles.png",
+      "image": "/assets/Images/angpickles.png",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "/assets/images/chuckie.png",
+      "image": "/assets/Images/chuckie.png",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "/assets/images/dill.png",
+      "image": "/assets/Images/dill.png",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "/assets/images/howdy.png",
+      "image": "/assets/Images/howdy.png",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "/assets/images/kimiko.png",
+      "image": "/assets/Images/kimiko.png",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "/assets/images/lil.png",
+      "image": "/assets/Images/lil.png",
       "clicked": false
     },
     {
       "id": 9,
-      "image": "/assets/images/phil.png",
+      "image": "/assets/Images/phil.png",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "/assets/images/pickles.png",
+      "image": "/assets/Images/pickles.png",
       "clicked": false
     },
     {
       "id": 11,
-      "image": "/assets/images/susie.png",
+      "image": "/assets/Images/susie.png",
       "clicked": false
     },
     {
       "id": 12,
-      "image": "/assets/images/susiee.png",
+      "image": "/assets/Images/susiee.png",
       "clicked": false
     }
   ]
