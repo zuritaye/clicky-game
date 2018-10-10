@@ -1,62 +1,62 @@
 [
     {
       "id": 1,
-      "image": "./assets/images/angel.png",
+      "image": "assets/Images/angel.png",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "./assets/images/angelica.png",
+      "image": "assets/images/angelica.png",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "./assets/images/angpickles.png",
+      "image": "assets/images/angpickles.png",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "./assets/images/chuckie.png",
+      "image": "assets/images/chuckie.png",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "./assets/images/dill.png",
+      "image": "assets/images/dill.png",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "./assets/images/howdy.png",
+      "image": "assets/images/howdy.png",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "./assets/images/kimiko.png",
+      "image": "assets/images/kimiko.png",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "./assets/images/lil.png",
+      "image": "assets/images/lil.png",
       "clicked": false
     },
     {
       "id": 9,
-      "image": "./assets/images/phil.png",
+      "image": "assets/images/phil.png",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "./assets/images/pickles.png",
+      "image": "assets/images/pickles.png",
       "clicked": false
     },
     {
       "id": 11,
-      "image": "./assets/images/susie.png",
+      "image": "assets/images/susie.png",
       "clicked": false
     },
     {
       "id": 12,
-      "image": "./assets/images/susiee.png",
+      "image": "assets/images/susiee.png",
       "clicked": false
     }
   ]
